@@ -2,6 +2,6 @@
 
 int main(){
 	
-	printf("My hobby is paint\n" "hello world");
+	printf("I am in 2ndbranch");
 	return 0;
 }
